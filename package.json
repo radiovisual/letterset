@@ -12,6 +12,10 @@
   "engines": {
     "node": ">=0.10.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/radiovisual/letterset.git"
+  },
   "scripts": {
     "test": "xo && ava"
   },
