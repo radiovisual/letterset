@@ -1,0 +1,60 @@
+acirc|â|small a, circumflex accent
+Acirc|Â|capital A, circumflex accent
+agrave | à | small a, grave accent
+Agrave | À | capital A, grave accent
+aring | å | small a, ring
+Aring | Å | capital A, ring
+atilde | ã | small a, tilde
+Atilde | Ã | capital A, tilde
+auml | ä | small a, dieresis or umlautmark
+Auml | Ä | capital A, dieresis or umlautmark
+aelig | æ | small ae diphthong (ligature)
+AElig | Æ | capital AE diphthong(ligature)
+ccedil | ç | small c, cedilla
+Ccedil | Ç | capital C, cedilla
+eth | ð | small eth, Icelandic
+ETH | Ð | capital Eth, Icelandic
+eacute | é | small e, acute accent
+Eacute | É | capital E, acute accent
+ecirc | ê | small e, circumflex accent
+Ecirc | Ê | capital E, circumflex accent
+egrave | è | small e, grave accent
+Egrave | È | capital E, grave accent
+euml | ë | small e, dieresis or umlautmark
+Euml | Ë | capital E, dieresis or umlautmark
+iacute | í | small i, acute accent
+Iacute | Í | capital I, acute accent
+icirc | î | small i, circumflex accent
+Icirc | Î | capital I, circumflex accent
+igrave | ì | small i, grave accent
+Igrave | Ì | capital I, grave accent
+iuml | ï | small i, dieresis or umlautmark
+Iuml | Ï | capital I, dieresis or umlautmark
+ntilde | ñ | small n, tilde
+Ntilde | Ñ | capital N, tilde
+oacute | ó | small o, acute accent
+Oacute | Ó | capital O, acute accent
+ocirc | ô | small o, circumflex accent
+Ocirc | Ô | capital O, circumflex accent
+ograve | ò | small o, grave accent
+Ograve | Ò | capital O, grave accent
+oslash | ø | small o, slash
+Oslash | Ø | capital O, slash
+otilde | õ | small o, tilde
+Otilde | Õ | capital O, tilde
+ouml | ö | small o, dieresis or umlautmark
+Ouml | Ö | capital O, dieresis or umlautmark
+szlig | ß | small sharp s, German (szligature)
+thorn | þ | small thorn, Icelandic
+THORN | Þ | capital THORN, Icelandic
+uacute | ú | small u, acute accent
+Uacute | Ú | capital U, acute accent
+ucirc | û | small u, circumflex accent
+Ucirc | Û | capital U, circumflex accent
+ugrave | ù | small u, grave accent
+Ugrave | Ù | capital U, grave accent
+uuml | ü | small u, dieresis or umlautmark
+Uuml | Ü | capital U, dieresis or umlautmark
+yacute | ý | small y, acute accent
+Yacute | Ý | capital Y, acute accent
+yuml | ÿ | small y, dieresis or umlautmark
