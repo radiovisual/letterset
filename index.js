@@ -1,5 +1,8 @@
 'use strict';
 // https://en.wikipedia.org/wiki/Western_Latin_character_sets_(computing)
+// http://character-code.com/czech_slovak_slovenian-html-codes.php
+// http://www.ascii.cl/htmlcodes.htm
+// http://www.ascii-code.com/
 
 function LetterSet() {
 
@@ -62,8 +65,8 @@ function LetterSet() {
 			'w': {shift:'W', html:'&#119;', hex:0x77 },
 			'x': {shift:'X', html:'&#120;', hex:0x78 },
 			'y': {shift:'Y', html:'&#121;', hex:0x79 },
-			'z': {shift:'Z', html:'&#122;', hex:0x7A },
-		}
+			'z': {shift:'Z', html:'&#122;', hex:0x7A }
+		};
 
 		this.upperSet = {
 			'Á': {shift:'á', html:'&#_ZZ_;', hex:null, name:'Aacute', info:'capital A, acute accent' },
@@ -120,7 +123,7 @@ function LetterSet() {
 			'W': {shift:'w', html:'&#87;', hex:0x57, name:'Yacute' },
 			'X': {shift:'x', html:'&#88;', hex:0x58, name:'Yacute' },
 			'Y': {shift:'t', html:'&#89;', hex:0x59, name:'Yacute' },
-			'Z': {shift:'z', html:'&#90;', hex:0x5A, name:'Yacute' },
+			'Z': {shift:'z', html:'&#90;', hex:0x5A, name:'Yacute' }
 		}
 }
 
