@@ -3,7 +3,10 @@
   "version": "0.0.0",
   "description": "My perfect module",
   "license": "MIT",
-  "repository": "radiovisual/letterset",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/radiovisual/letterset.git"
+  },
   "author": {
     "name": "Michael Wuergler",
     "email": "wuergler@gmail.com",
@@ -11,10 +14,6 @@
   },
   "engines": {
     "node": ">=0.10.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/radiovisual/letterset.git"
   },
   "scripts": {
     "test": "xo && ava"
@@ -25,7 +24,10 @@
   "keywords": [
     ""
   ],
-  "dependencies": {},
+  "dependencies": {
+    "array-unique": "^0.2.1",
+    "trim": "0.0.1"
+  },
   "devDependencies": {
     "ava": "^0.8.0",
     "xo": "^0.12.1"
