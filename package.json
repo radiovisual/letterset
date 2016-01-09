@@ -26,6 +26,9 @@
   ],
   "dependencies": {
     "array-unique": "^0.2.1",
+    "each-async": "^1.1.1",
+    "html-entities": "^1.2.0",
+    "object-assign": "^4.0.1",
     "trim": "0.0.1"
   },
   "devDependencies": {
@@ -33,6 +36,8 @@
     "xo": "^0.12.1"
   },
   "xo": {
-    "ignore": ["jq.js"]
+    "ignore": [
+      "jq.js"
+    ]
   }
 }
