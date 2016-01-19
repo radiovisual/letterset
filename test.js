@@ -3,7 +3,6 @@ import hex from 'ascii-hex';
 import eachAsync from 'each-async';
 import LetterSet from './index';
 
-
 test('should find letters', t => {
 	const letterset = new LetterSet();
 	t.is(letterset.isLetter('a'), true);
@@ -33,19 +32,4 @@ test('should get decimal', t => {
 test('should get name', t => {
 	const letterset = new LetterSet();
 	t.is(letterset.name('Œ'), 'LATIN CAPITAL LIGATURE O');
-});
-
-test.cb('the hex values should be correct', t => {
-	const letterset = new LetterSet();
-	const letters = letterset.allCharacters();
-	const length = letters.length;
-
-	t.plan(length);
-
-	eachAsync(letters, (letter, index, done) => {
-		t.is(Number(hex(letter)), Number(letterset.hex(letter)));
-		done();
-	}, error => {
-		t.end();
-	});
 });

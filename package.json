@@ -25,11 +25,12 @@
     ""
   ],
   "dependencies": {
+    "ascii-decimal": "^1.0.0",
     "object-assign": "^4.0.1",
     "trim": "0.0.1"
   },
   "devDependencies": {
-    "ascii-hex": "^1.0.0",
+    "ascii-hex": "^1.0.1",
     "ava": "^0.8.0",
     "each-async": "^1.1.1",
     "xo": "^0.12.1"
