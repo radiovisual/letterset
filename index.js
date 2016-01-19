@@ -70,7 +70,7 @@ function LetterSet() {
 		ğ: {decimal: 287, hex: 0x11f, name: 'Lowercase g-breve', html: '&gbreve;'},
 		Ş: {decimal: 350, hex: 0x15e, name: 'Capital letter S with cedilla', html: '&Scedil;'},
 		ş: {decimal: 351, hex: 0x15f, name: 'Lowercase letter s with cedilla', html: '&scedil;'},
-		Á: {decimal: 193, hex: 0xc4, name: 'Latin capital letter A with acute', html: '&Aacute;'},
+		Á: {decimal: 193, hex: 0xc1, name: 'Latin capital letter A with acute', html: '&Aacute;'},
 		á: {decimal: 225, hex: 0xe1, name: 'Latin small letter a with acute', html: '&aacute;'},
 		É: {decimal: 201, hex: 0xc9, name: 'Latin capital letter E with acute', html: '&Eacute;'},
 		é: {decimal: 233, hex: 0xe9, name: 'Latin small letter e with acute', html: '&eacute;'},
