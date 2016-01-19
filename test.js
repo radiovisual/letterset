@@ -30,5 +30,5 @@ test('should get decimal', t => {
 
 test('should get name', t => {
 	const letterset = new LetterSet();
-	t.is(letterset.name('Œ'), 'Latin capital ligature O');
+	t.is(letterset.name('Œ'), 'LATIN CAPITAL LIGATURE O');
 });

@@ -34,7 +34,8 @@
   },
   "xo": {
     "ignore": [
-      "test.js"
+      "test.js",
+      "build.js"
     ]
   }
 }
