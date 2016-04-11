@@ -1,6 +1,6 @@
 {
   "name": "letterset",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Work with all letters used in latin, european, greek and cyrillic alphabets.",
   "license": "MIT",
   "repository": {
@@ -16,7 +16,7 @@
     "node": ">=0.10.0"
   },
   "scripts": {
-    "test": "xo && ava",
+    "test": "xo && ava && nyc ava",
     "coveralls": "nyc ava && nyc report --reporter=text-lcov | coveralls"
   },
   "files": [
