@@ -36,9 +36,7 @@
   ],
   "dependencies": {
     "ascii-hex": "^1.0.1",
-    "ascii-decimal": "^1.0.0",
-    "object-assign": "^4.0.1",
-    "trim": "0.0.1"
+    "ascii-decimal": "^1.0.0"
   },
   "devDependencies": {
     "ava": "^0.8.0",
