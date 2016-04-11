@@ -1,6 +1,4 @@
 import test from 'ava';
-import hex from 'ascii-hex';
-import eachAsync from 'each-async';
 import LetterSet from './index';
 
 test('should find letters', t => {
