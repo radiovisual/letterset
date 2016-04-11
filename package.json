@@ -42,10 +42,10 @@
   },
   "devDependencies": {
     "ava": "^0.8.0",
+    "coveralls": "^2.11.9",
     "each-async": "^1.1.1",
-    "xo": "^0.12.1",
-    "coveralls": "^2.11.6",
-    "nyc": "^5.6.0"
+    "nyc": "^6.4.0",
+    "xo": "^0.12.1"
   },
   "xo": {
     "ignore": [
