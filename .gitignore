@@ -3,5 +3,8 @@
 node_modules
 *.log
 
+coverage
+.nyc_output
+
 test.html
 build.js
